@@ -110,12 +110,5 @@
             <version>1.8-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
-        <dependency>
-            <groupId>LocyLevel</groupId>
-            <artifactId>LocyLevel</artifactId>
-            <version>1.0.0</version>
-            <scope>system</scope>
-            <systemPath>${project.basedir}/libs/LocyLevel.jar</systemPath>
-        </dependency>
     </dependencies>
 </project>
